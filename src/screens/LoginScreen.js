@@ -57,18 +57,7 @@ const styles = StyleSheet.create({
     input: {
       width: '80%',
       margin: 16
-    },
-    // text: {
-    //   color: '#6e7c7d',
-    //   alignSelf: 'center',
-    //   marginBottom: 16
-    // },
-    // errorMessage: {
-    //   fontSize: 16,
-    //   color: 'red',
-    //   marginLeft: 15,
-    //   marginTop: 15
-    // }
+    }
   });
 
   export default LoginScreen;
